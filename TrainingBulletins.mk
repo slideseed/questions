@@ -23,7 +23,7 @@ TRAINING BULLETINS ARSON SEC 1.2.6
 
 CHEMICAL MATERIAL ARRANGED TO START AND FEED INITIAL FIRE IS AN INDICATION OF A(N)
 Trailer
-Plant
+-- Plant
 Accelerant
 Ignition device
 Training Bulletins Arson sec 1.2.5
