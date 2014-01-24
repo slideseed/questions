@@ -1,5 +1,18 @@
 TRAINING BULLETINS
 ******************
+
+Names or phone numbers...
+
+IN WHICH CHOICE MAY A FIRE BE CONSIDERED INCENDIARY?
+It is one in a series of similar fires.
+Stock or belongings were removed prior to the fire.
+Premises normally locked are found unlocked.
+-- All accidental causes have been eliminated.
+A) SUSPICIOUS
+B) SUSPICIOUS
+C) SUSPICIOUS
+TB ARSON 1.2.3
+
 COTTON WASTE FOUND AT A FIRE SCENE COULD BE A(N)
 -- Trailer
 Plant
@@ -37,6 +50,21 @@ Trailer
 Accelerant
 TB ARSON 1.2.7
 
+AN INVESTIGATING FIRE MARSHAL WOULD EXPECT FIRST ARRIVING MEMBERS TO BE OBSERVANT OF PERSONS OR AUTOMOBILES LEAVING THE FIRE BUILDING OR VICINITY OF THE FIRE IN WHAT COULD BE INTERPRETED AS A SUSPICIOUS MANNER. THESE MEMBERS SHOULD MAKE A MENTAL NOTE OF THEIR DESCRIPTION, AGE, SEX, HOW DRESSED, ETC. AND WRITE DOWN THE _____ AND _____ OF THE CAR.
+make and model
+-- license number and description
+color and type
+speed and description
+TB ARSON 2.1
+
+AN INVESTIGATING FIRE MARSHAL WOULD EXPECT FIRST ARRIVING MEMBERS TO OBSERVE WHETHER DOORS AND WINDOWS ARE OPEN OR SHUT, PARTICULARLY ON A ____ DAY, AS WELL AS NOTE IF WINDOW SHADES WERE DRAWN TO BLOCK THE OUTSIDE VIEW, PARTICULARLY DURING THE _____.
+-- cold; daytime
+warm; nightime
+cold; nightime
+rainy; nightime
+TB Arson 2.2
+SKIP TO RESULTS
+
 ALL OF THE FOLLOWING ARE POSSIBLE INDICATORS OF THE USE OF FLAMMABLE ACCELERANTS EXCEPT IN WHICH CHOICE?
 Charring of the floor or low burn marks on the wall or under the door or on the lower part of the door.
 Char in broken patterns or "puddle-like" circle burns on the floor.
@@ -44,6 +72,22 @@ Low burning and deep charring.
 -- Small body of fire with little contents.
 D) HEAVY BODY OF FIRE WITH LITTLE CONTENTS.
 TB ARSON 3.7
+
+ACCORDING TO \"TRAINING BULLETINS: ARSON,\" UNUSUAL LOCATIONS OF FIRES CAN BE FOUND IN ALL CHOICES EXCEPT?
+Closets
+Under steps / porches
+In attics
+-- Over the stovetop
+D) In desk drawers
+ACRONYM: CADS (CLOSETS, ATTICS, DESK DRAWERS, STEPS/PORCHES)
+TB ARSON 3.10
+
+AN EXPERIENCED FIRE MARSHAL WOULD BE MOST CORRECT TO KNOW THAT THE IC SHOULD NOT PUT THE ________ OF WITNESSES ON THE "FACE" OF FIRE REPORTS.
+names or description
+names or phone numbers
+-- names or statements
+names or addresses
+TB ARSON 3.21
 
 AT FATAL FIRE AND ARSON INVESTIGATIONS, SECURITY OF THE INCIDENT SCENE IS OF THE UTMOST IMPORTANCE. EVIDENCE MUST BE DOCUMENTED, COLLECTED AND PRESERVED. DEPENDING ON THE INCIDENT, THE INVESTIGATION MAY EXTEND OVER A PERIOD OF TIME. IN THESE SITUATIONS, A FIRE LINE MUST BE ESTABLISHED AND RELATIVES, NEIGHBORS, SPECTATORS, THE MEDIA AND MEMBERS OF THE DEPARTMENT SHALL NOT CROSS ESTABLISHED FIRE LINES UNLESS AUTHORIZED BY?
 any Fire Marshal
@@ -74,6 +118,14 @@ Usually starts one to two hours after death and is completed after three to four
 Usually starts three to four hours after death and is completed after six to eight hours and could indicate the victim suffered trauma prior to death.
 TRAINING BULLETIN ARSON SEC 4.5
 USUALLY STARTS ONE TO TWO HOURS AFTER DEATH AND IS COMPLETED AFTER THREE TO FOUR HOURS AND COULD INDICATE THAT THE VICTIM WAS MOVED AFTER DEATH AND PLACED AT THE FIRE SCENE.
+
+Safeguarding procedures must be taken by the officer in charge of a suspicious fire where a fire was not extensive and the fire units are returned to service. All of the following are in accordance with \"Training Bulletins: Arson\" except in which choice?
+One firefighter, fulfilling a watchline function with a hand extinguisher, is sufficient to establish the Fire Department control of the premises.
+To safeguard the firefighter, and provide additional security, a request for assistance should be made to the Police Department.
+When manpower is at a premium, it is permissible to leave only the NYPD patrolman in charge.
+No one should be allowed into the occupancy until the Fire Marshal arrives. When he does arrive, the firefighter can return to his unit.
+C) Do not leave only the patrolman in charge.
+TB Arson 5.1
 
 CONTAMINATION IS SELDOM A PROBLEM ASSOCIATED WITH THE _______ OF EVIDENCE.
 -- Collection
