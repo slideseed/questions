@@ -59,6 +59,14 @@ Gray
 -- Pink to cherry red
 TRAINING BULLETIN ARSON SEC 4.4
 
+WHICH "COLOR" OF A VICTIM WOULD INDICATE THAT THE VICTIM WAS ALIVE AT THE TIME OF THE FIRE?
+pink or red skin at the lower portions of a supine victim
+cyanotic
+-- pink to cherry red
+pale yellow
+CO MAY CAUSE VICTIM TO APPEAR LIFE-LIKE (PINK TO CHERRY RED COLOR OF LIPS, EYELIDS, OR SKIN). THIS WOULD INDICATE THE VICTIM WAS ALIVE AT THE TIME OF THE FIRE. LIVIDITY IS CAUSED BY THE SETTLING OF BLOOD TO THE LOWEST HORIZONTAL AREAS OF THE BODY; MAY SHOW AS PINK OR RED SKIN. (DO NOT CONFUSE WITH CO CHERRY RED COLOR.)
+TB ARSON 4.5
+
 ACCORDING TO THE FDNY ARSON TRAINING BULLETIN, WHICH STATEMENT BELOW IS CORRECT REGARDING LIVIDITY?
 Usually starts three to four hours after death and is completed after six to eight hours and could indicate that the victim was moved after death and placed at the fire scene.
 -- Usually starts one to two hours after death and is completed after three to four hours and could indicate that the victim was moved after death and placed at the fire scene
