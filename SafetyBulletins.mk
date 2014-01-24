@@ -8,6 +8,13 @@ Mild conjunctivitis
 B) SPRAINS OR STRAINS, WITH NO SWELLING OR DISCOLORATION
 SB 7 2.1.3
 
+THE SH-900.1 IS REQUIRED TO BE POSTED IN THE WORKPLACE FROM?
+February 1st to June 30th
+January 1st to July 30th
+-- February 1st to April 30th
+April 1st to April 30th
+SB 7 ADD 1 1.5
+
 A REVIEW OF SOME DRIVING TECHNIQUES MAY ASSIST DRIVERS OF FDNY VEHICLES IN MINIMIZING WINTER HAZARDS. ALL WINTER DRIVING TECHNIQUES BELOW ARE CORRECT EXCEPT IN WHICH CHOICE?
 Steer gently on slippery surfaces. Sharp quick turns can throw you into a skid.
 Brake gently on slippery surfaces. Squeeze brakes to prevent skids.

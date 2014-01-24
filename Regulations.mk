@@ -7,6 +7,15 @@ Yearly
 Semi-annually
 REGS 8.5.1
 
+DURING AN ARSON INVESTIGATION YOU FIND A DRAWER FULL OF EXPENSIVE JEWELRY. KNOWING THESE ARE CONSIDERED ARTICLES OF VALUE, YOU WERE CORRECT TO TAKE WHICH ACTION AS PER FDNY REGULATIONS?
+Turn the jewelry over to an authorized representative of the owner. In this case a receipt is not required
+-- Turn the jewelry over to your immediate supervisory officer
+Turn the jewelry over to the police, in full view of the owner
+Bring the jewelry back to your office and secure it until the owner arrives with proper identification
+SUCH ARTICLES SHALL BE TURNED OVER TO YOUR IMMEDIATE SUPERVISORY OFFICER, WHO IN TURN SHALL DELIVER THEM TO THE OFFICER IN COMMAND. SUCH ARTICLES SHALL BE RESTORED TO THE OWNER UPON PROPER IDENTIFICATION, DELIVERED TO THE POLICE DEPARTMENT IF OWNER IS NOT AVAILABLE, OR UPON PROPER IDENTIFICATION TO AN AUTHORIZED REPRESENTATIVE OF THE OWNER. IN ALL CASES A RECEIPT SHALL BE OBTAINED.
+REGS 11.3.15 A
+
+
 IN ORDER TO SAFEGUARD PRIVATE PROPERTY WHILE OPERATING, WHEN FDNY MEMBERS FIND ARTICLES OF VALUE, SUCH ARTICLES SHALL BE TURNED OVER TO THEIR IMMEDIATE SUPERVISORY OFFICER, WHO IN TURN SHALL DELIVER THEM TO THE OFFICER IN COMMAND. AN EXPERIENCED FIRE MARSHAL WOULD KNOW THAT THESE ARTICLES MAY BE TURNED OVER TO ALL OF THE FOLLOWING EXCEPT?
 Owner, upon proper identification
 Police, if owner is not available
@@ -24,6 +33,31 @@ C) LICENSE
 ACRONYM: MMLL
 REGS 11.3.15 D
 
+You have arrived at a suspicious taxpayer fire recently placed under control when a civilian approaches you just prior to your investigation. You know that at a fire operation, when allegations of lost, missing, or possibly stolen private property are received, who must immediately direct a thorough search of the premises from which the property is missing?
+The Assigned Fire Marshal
+The Chief Fire Marshal
+The Inspector General
+The Incident Commander
+Regs 11.3.16
+
+THE FDNY SOMETIMES RECEIVES ALLEGATIONS OF LOST, MISSING, OR POSSIBLY STOLEN PRIVATE PROPERTY AT AN INCIDENT. IN WHICH CHOICE BELOW, AS A FIRE MARSHAL, WOULD YOU EXPECT TO BE CALLED TO THE SCENE?
+It is alleged that the property was taken by a Fire Department employee.
+-- The fire has been designated as a 10-41 code 4.
+It is alleged the property was taken by a neighbor.
+It is alleged theft involved cables connecting the local ERS Box.
+A) IF IT IS ALLEGED THAT THE PROPERTY WAS TAKEN BY A FIRE DEPARTMENT EMPLOYEE, NOTIFY THE INSPECTOR GENERAL'S OFFICE.
+B) IF THE FIRE HAS BEEN DESIGNATED AS A 10-41 (ALL CODES), NOTIFY THE FIRE MARSHAL AND INSPECTOR GENERAL'S OFFICE.
+C) IF THE COMPLAINANT DOES NOT FALL WITHIN ITEMS A OR B ABOVE, ADVISE THE COMPLAINANT TO NOTIFY THE POLICE DEPARTMENT.
+REGS 11.3.16, 11.3.18
+
+THEFT OF PROPERTY FROM COMPANY QUARTERS MAY REQUIRE A FIRE MARSHAL TO BE NOTIFIED IN WHICH CASE?
+The back door of company quarters was forced by a local vagrant and the housewatch scanner is missing
+A FDNY member is suspected of stealing from other member's lockers
+A unit returns from an electrical emergency to find a window broken and signs of illegal entry
+-- A unit returns from a false alarm and finds signs of illegal entry as well as items missing from the kitchen
+THEFT OF PROPERTY IN CONNECTION WITH ILLEGAL ENTRY OF QUARTERS MUST BE REPORTED IMMEDIATELY TO THE POLICE DEPARTMENT. ILLEGAL ENTRY OF QUARTERS REPORT (FORM BP-153) MUST BE FORWARDED BY THE OFFICER ON DUTY TO THE CHIEF OF OPERATIONS. IF A FALSE ALARM IS INVOLVED, NOTIFY THE FIRE MARSHALS. IF THERE IS NO ILLEGAL ENTRY OF QUARTERS AND A DEPARTMENT EMPLOYEE IS SUSPECTED, IMMEDIATELY NOTIFY THE INSPECTOR GENERAL AND FORWARD A REPORT WITH FULL PARTICULARS TO THE CHIEF OF OPERATIONS.
+Regs 11.3.17
+
 DURING FIRE OPERATIONS ALL MEMBERS SHALL BE ALERT TO THE POSSIBILITY OF THE CRIME OF ARSON. IN THE EVENT CONDITIONS INDICATE THIS POSSIBILITY, THE INCIDENT COMMANDER SHALL PROMPTLY NOTIFY THE FIRE MARSHAL. WHICH CHOICE BELOW CONTAINS INCORRECT INFORMATION REGARDING MEMBER ACTIONS FROM THIS POINT ON?
 Unauthorized persons shall be prohibited from entering the premises or motor vehicle
 Actions of members authorized to enter shall be carefully noted
@@ -39,6 +73,36 @@ HEN UNITS ARE STILL ON THE SCENE OF A FIRE OR EMERGENCY WHICH HAS BEEN UNDER CON
 24
 10
 REGS 11.4.13
+
+FIRE MARSHALS SHALL, TO THE EXTENT THAT OTHER RESPONSIBILITIES PERMIT, CHECK AUTHENTICITY OF ALL BADGES AND FIRE LINE CARDS DISPLAYED BY PERSONS WITHIN FIRE LINES. ONLY BADGES OR FIRE LINE CARDS AUTHORIZED BY THE _______ SHALL BE HONORED.
+Office of Emergency Management
+-- Fire Commissioner
+Red Cross
+Chief of Department
+REGS 11.5.21 E
+
+Fire Marshals shall, to the extent that other responsibilities permit, check authenticity of all badges and fire line cards displayed by persons within fire lines. Names and addresses of persons displaying unauthorized badges or fire line cards shall be ascertained, and a description of badges or cards noted. This information shall be forwarded to the _________.
+Fire Commissioner
+Police Commissioner
+Incident Commander
+Chief of Personnel
+*Police shall be requested to remove unauthorized persons.
+Regs 11.5.21 E
+
+ALL CHOICES BELOW ARE CORRECT REGARDING FIRE MARSHAL RESPONSIBILITIES AT ESTABLISHED FIRE LINES EXCEPT IN WHICH CHOICE?
+Members of Auxiliary Fire Corps shall not be permitted to enter any area of fire lines where there is a danger of falling glass, debris or other materials.
+-- Members of Auxiliary Fire Corps may enter fire buildings only when under proper supervision.
+Members of "Buff" organizations shall not be permitted inside fire lines except when such members properly display fire line cards authorized by the Fire Commissioner. Such members shall not wear fire helmets or other specialized fire clothing giving implication that they are Fire Department members.
+Members of "Buff" organizations shall not, without express approval of the officer in command, be permitted in areas where they would be endangered by falling glass or debris; or injured by falls due to ice conditions.
+B) Under no conditions shall such members enter buildings.
+REGS 11.5.21 F, G
+
+AT FATAL FIRE AND ARSON INVESTIGATIONS, SECURITY OF THE INCIDENT SCENE IS OF THE UTMOST IMPORTANCE. EVIDENCE MUST BE DOCUMENTED, COLLECTED AND PRESERVED. DEPENDING ON THE INCIDENT, THE INVESTIGATION MAY EXTEND OVER A PERIOD OF TIME. IN THESE SITUATIONS, A FIRE LINE MUST BE ESTABLISHED. RELATIVES, NEIGHBORS, SPECTATORS, THE MEDIA AND MEMBERS OF THE DEPARTMENT SHALL NOT CROSS ESTABLISHED FIRE LINES UNLESS AUTHORIZED BY?
+the Incident Commander and/or Chief of Operations.
+the assigned Fire Marshal and/or Incident Commander.
+the assigned Fire Marshal and/or Police Commissioner
+-- the assigned Fire Marshal and/or Chief of Operations.
+REGS 11.5.22
 
 
 MEMBERS SHALL NOT SELL OR DISTRIBUTE TICKETS, NOR SHALL THEY SELL OR SOLICIT ADVERTISEMENTS FOR EVENTS OF ANY KIND WITHOUT THE PRIOR WRITTEN APPROVAL OF THE ______. SUCH EVENTS INCLUDE, BUT ARE NOT LIMITED TO, UNIT ANNIVERSARIES, SPORTING EVENTS, MEMORIAL RUNS, TOURNAMENTS AND THE LIKE.
@@ -56,6 +120,13 @@ Chief of Operations
 Division Commander
 REGS 25.2.9
 
+A MEMBER WHO BECOMES INVOLVED IN ANY CRIMINAL PROCEEDING, OR IN CIVIL PROCEEDINGS INVOLVING ANY GOVERNMENTAL AGENCY, SHALL IMMEDIATELY FORWARD TO THE __________ A REPORT RECORDING ALL PERTINENT INFORMATION.
+-- Bureau of Personnel
+Inspector General
+Chief of Support Services
+Chief of Fire Prevention
+* The member shall forward a separate report for each subsequent or continued appearance and said report shall include adjournment date or the certificate of disposition of the proceedings.
+REGS 25.4.3
 
 WHEN IT IS REPORTED THAT A CRIMINAL OFFENSE HAS BEEN COMMITTED BY A MEMBER, THE OFFICER ON DUTY SHALL IMMEDIATELY NOTIFY _________.
 the supervising Fire Marshal
@@ -86,3 +157,10 @@ FDNY MEMBERS SHOULD KNOW THAT WHEN "CHARGES" ARE WARRANTED, THE TRIAL NOTICE MUS
 3
 5
 REGS 26.5.1
+
+MEMBERS SUSPENDED FROM DUTY MAY NOT APPEAR IN UNIFORM. THEY MUST PROMPTLY RETURN OFFICIAL BADGES, INSIGNIA, AND ALL OTHER DEPARTMENT PROPERTY TO THE OFFICER ON DUTY IN THEIR UNIT. THE BADGE DESK MUST BE NOTIFIED AS SOON AS POSSIBLE THAT MEMBER\'S BADGE AND I.D. CARD HAVE BEEN RETURNED. IF THE MEMBER DOES NOT RETURN OFFICIAL BADGES, INSIGNIA, AND ALL DEPARTMENT PROPERTY WITH ______, THE BUREAU OF INVESTIGATIONS AND TRIALS MUST BE NOTIFIED.
+24 hours
+30 days
+-- 72 hours
+10 DAYS
+Regs 26.7.2
