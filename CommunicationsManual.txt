@@ -27,7 +27,7 @@ Fire or smoke condition from a transformer at any location. i.e., pole, vault, r
 B) 10-25 code 2
 C) 10-25 code 3
 D) 10-25 code 4
-COMM 8.5
+COMM 8.-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- 5
 
 YOU ARE CALLED IN TO INVESTIGATE A SUSPICIOUS FIRE IN A COMPACTOR SHAFT. WHAT WOULD BE THE CORRECT CODE TRANSMITTED BY THE INCIDENT COMMANDER FOR A COMPACTOR FIRE, WHERE FIRE HAS NOT EXTENDED FROM THE COMPACTOR OR SHAFT?
 -- 10-27
