@@ -11,6 +11,18 @@ AUC:
 
 COMMUNICATIONS:
   8.5: "THE INCIDENT COMMANDER MUST NOTIFY THE DISPATCHER BY RADIO THAT THE FIRE IS SUSPICIOUS PRIOR TO LEAVING THE SCENE. IF, AFTER LEAVING THE SCENE, INFORMATION BECOMES AVAILABLE WHICH INDICATES THAT THE FIRE IS SUSPICIOUS, THE INCIDENT COMMANDER SHALL IMMEDIATELY NOTIFY THE DISPATCHER AND THE BUREAU OF FIRE INVESTIGATION BY TELEPHONE, THAT THE FIRE HAS BEEN DECLARED SUSPICIOUS."
+  8.7.1: "When used to precede an announcement to the entire Department, signal
+65-2 must be authorized by the Fire Commissioner, Chief of Department, or
+Chief in Charge, Bureau of Personnel. Announcements directed to specific
+areas or units may be authorized by an Assistant Chief or Supervising
+Dispatcher of the borough concerned."
+  8.9.10: "Borough dispatchers shall contact the Incident Commander to obtain a preliminary
+report if the Incident Commander fails to transmit one within five minutes after
+announcing arrival."
+
+PAIDs:
+  2.3.5: "When recommended penalty is loss of pay, the member may request an interview with the Borough Commander ..."
+
 REGULATIONS:
   8.:
     2:
