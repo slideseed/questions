@@ -1,19 +1,5 @@
 REGULATIONS
 ***********
-FIRE MARSHALS SHALL, UPON ARRIVAL AT FIRES OR EMERGENCIES, REPORT THEIR ARRIVAL TO THE INCIDENT COMMANDER, CONDUCT THEIR INVESTIGATION AND INFORM THE __________ OF RESULTS.
-Command Chief on duty
-Chief of Operations
--- Incident Commander
-local police precinct
-REGS 8.2.4
-
-ALL MEMBERS OF THE BUREAU OF FIRE INVESTIGATION SHALL MAINTAIN RESPONSIBLE AND APPROPRIATE CONDUCT RELATIVE TO POSSESSION, CONTROL AND CONSTRUCTIVE POSSESSION OF FIREARMS. ANY MEMBER WHO BECOMES AWARE OF INAPPROPRIATE OR UNPROFESSIONAL CONDUCT BY ANOTHER MEMBER OF THE BUREAU OF FIRE INVESTIGATION SHALL IMMEDIATELY NOTIFY THE ________.
--- Chief Fire Marshal
-Fire Commissioner
-Inspector General
-NYPD
-OR IN HIS/HER ABSENCE THE ASSISTANT CHIEF FIRE MARSHAL REGS 8.3.1
-
 DURING AN ARSON INVESTIGATION YOU FIND A DRAWER FULL OF EXPENSIVE JEWELRY. KNOWING THESE ARE CONSIDERED ARTICLES OF VALUE, YOU WERE CORRECT TO TAKE WHICH ACTION AS PER FDNY REGULATIONS?
 Turn the jewelry over to an authorized representative of the owner. In this case a receipt is not required
 -- Turn the jewelry over to your immediate supervisory officer
@@ -30,22 +16,6 @@ An authorized representative of the owner
 IN ALL CASES A RECEIPT SHALL BE OBTAINED.
 REGS 11.3.15 A
 
-FIRE MARSHAL JONES WAS CORRECT IN HIS ASSERTION THAT IF A FIRE OCCURS IN A VEHICLE, OTHER THAN AN ADV OR ONE FOR WHICH A 10-41 CODE 3 HAS BEEN TRANSMITTED, THE INCIDENT COMMANDER SHALL ATTEMPT TO NOTIFY THE OWNER. IF THIS IS NOT POSSIBLE, THE DISPATCHER SHALL BE REQUESTED TO INFORM THE POLICE COMMUNICATIONS BUREAU OF ALL OF THE FOLLOWING EXCEPT?
-Make
-Model
--- Vehicle registration
-Location
-C) LICENSE
-ACRONYM: MMLL
-REGS 11.3.15 D
-
-You have arrived at a suspicious taxpayer fire recently placed under control when a civilian approaches you just prior to your investigation. You know that at a fire operation, when allegations of lost, missing, or possibly stolen private property are received, who must immediately direct a thorough search of the premises from which the property is missing?
-The Assigned Fire Marshal
-The Chief Fire Marshal
-The Inspector General
-The Incident Commander
-Regs 11.3.16
-
 THE FDNY SOMETIMES RECEIVES ALLEGATIONS OF LOST, MISSING, OR POSSIBLY STOLEN PRIVATE PROPERTY AT AN INCIDENT. IN WHICH CHOICE BELOW, AS A FIRE MARSHAL, WOULD YOU EXPECT TO BE CALLED TO THE SCENE?
 It is alleged that the property was taken by a Fire Department employee.
 -- The fire has been designated as a 10-41 code 4.
@@ -56,17 +26,9 @@ B) IF THE FIRE HAS BEEN DESIGNATED AS A 10-41 (ALL CODES), NOTIFY THE FIRE MARSH
 C) IF THE COMPLAINANT DOES NOT FALL WITHIN ITEMS A OR B ABOVE, ADVISE THE COMPLAINANT TO NOTIFY THE POLICE DEPARTMENT.
 REGS 11.3.16, 11.3.18
 
-DURING FIRE OPERATIONS ALL MEMBERS SHALL BE ALERT TO THE POSSIBILITY OF THE CRIME OF ARSON. IN THE EVENT CONDITIONS INDICATE THIS POSSIBILITY, THE INCIDENT COMMANDER SHALL PROMPTLY NOTIFY THE FIRE MARSHAL. WHICH CHOICE BELOW CONTAINS INCORRECT INFORMATION REGARDING MEMBER ACTIONS FROM THIS POINT ON?
-Unauthorized persons shall be prohibited from entering the premises or motor vehicle
-Actions of members authorized to enter shall be carefully noted
-Members shall refrain from discussion of the fire and prevent the disturbance of any essential evidence
--- If necessary, the incident commander shall detail one or more units to remain at the location with the information until the arrival of a fire marshal
-IF NECESSARY, THE INCIDENT COMMANDER SHALL DETAIL ONE OR MORE MEMBERS TO REMAIN AT THE LOCATION WITH THE INFORMATION UNTIL THE ARRIVAL OF A FIRE MARSHAL
-REGS 11.3.31
-
 WHEN UNITS ARE STILL ON THE SCENE OF A FIRE OR EMERGENCY WHICH HAS BEEN UNDER CONTROL FOR MORE THAN __ HOURS, THE INCIDENT WILL BE REFERRED TO AS "CONTINUING OPERATIONS AT BOX...BORO OF..." IN ALL RADIO COMMUNICATIONS REFERRING TO THE INCIDENT, OR THE MOVEMENT OF UNITS TO AND FROM THE INCIDENT.
 12
--- 8
+-- 8 (think number of words when dots are filled in)
 24
 10
 REGS 11.4.13
@@ -85,14 +47,6 @@ the assigned Fire Marshal and/or Incident Commander.
 the assigned Fire Marshal and/or Police Commissioner
 -- the assigned Fire Marshal and/or Chief of Operations.
 REGS 11.5.22
-
-A MEMBER WHO BECOMES INVOLVED IN ANY CRIMINAL PROCEEDING, OR IN CIVIL PROCEEDINGS INVOLVING ANY GOVERNMENTAL AGENCY, SHALL IMMEDIATELY FORWARD TO THE __________ A REPORT RECORDING ALL PERTINENT INFORMATION.
--- Bureau of Personnel
-Inspector General
-Chief of Support Services
-Chief of Fire Prevention
-* The member shall forward a separate report for each subsequent or continued appearance and said report shall include adjournment date or the certificate of disposition of the proceedings.
-REGS 25.4.3
 
 WHEN IT IS REPORTED THAT A CRIMINAL OFFENSE HAS BEEN COMMITTED BY A MEMBER, THE OFFICER ON DUTY SHALL IMMEDIATELY NOTIFY _________.
 the supervising Fire Marshal
